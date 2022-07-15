@@ -1,0 +1,10 @@
+body {
+    font-family: Montserrat, sans-serif;
+}
+h1, h2  {
+    color: brown;
+}
+.round-img { 
+    border-radius: 50% !important
+
+}
